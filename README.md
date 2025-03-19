@@ -3,12 +3,12 @@
 🚀 Passionate about building scalable applications  
 
 ## 🌟 About Me  
-- 🔭 Currently working on a **Car Rental Web App**  
+- 🔭 Currently working on **Bitlab Jobs** – a job portal platform  
 - 🌱 Exploring **Microservices Architecture** and **Scalable Systems**  
 - ⚡ Fun Fact: I love solving challenging problems  
 
 ## 🚀 My Projects  
-- [**Car Rental Web App**](https://github.com/Yash-123patel/Car-Rental-Web) - A platform for booking and renting cars online  
+- [**Bitlab Jobs**](https://github.com/Yash-123patel/bitLabs-web-application) - A job portal connecting recruiters and job seekers  
 - [**Microservices Architecture**](https://github.com/Yash-123patel/microservices-Architecture) - A project exploring scalable microservices design  
 
 ## 📊 GitHub Stats  
