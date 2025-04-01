@@ -9,7 +9,7 @@
 
 ## 🚀 My Projects  
 ### ![Bitlab Jobs](https://i.postimg.cc/pLNLvPkY/images-1.png)  
-[**Bitlab Jobs**](https://github.com/Yash-123patel/Bitlab-Jobs) - A job portal connecting recruiters and job seekers  
+[**Bitlab Jobs**](https://github.com/Yash-123patel/bitLabs-web-application) - A job portal connecting recruiters and job seekers  
 
 - [**Microservices Architecture**](https://github.com/Yash-123patel/microservices-Architecture) - A project exploring scalable microservices design  
 
